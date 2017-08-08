@@ -31,4 +31,4 @@ library
                      , template-haskell
                      , th-desugar       >= 1.6
                      , void             >= 0.6    && < 0.8
-  build-depends:       singletons       >= 2.1    && < 2.3
+  build-depends:       singletons       >= 2.1    && < 2.4
